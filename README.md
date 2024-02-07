@@ -23,9 +23,14 @@ _Client Libraries, SDKs and developer tools designed to simplify and enhance you
 - [deepl-ex](https://github.com/hergetto/deepl_ex) - DeepL API Client for Elixir
 - [deepl-rs](https://github.com/Avimitin/deepl-rs) - DeepL API Client for Rust
 - [Transjson](https://github.com/gaelo-dev/transjson) - Script to automate JSON Translation via the API 
-
 - [ebt-deepl](https://github.com/sc-voice/ebt-deepl) - The ebt-deepl repository is a Javascript library for Early Buddhist Texts (EBT) translation using DeepL.
 - [JS+PHP](https://github.com/serhii-deineko/deepl) - JS + PHP Script to create translations of web sites
+
+### Translation and localization tools
+_Projects that help get translations done easier using the DeepL API._
+
+- [Quick Translate](https://github.com/MathieuMoalic/quicktranslate) - Quick translate for Wayland via DeepL API
+- [SRT Translator](https://github.com/Fabrice-Deshayes-aka-Xtream/srt-translator) - Batch translate subtitle SRT files
 
   
 ### Other
@@ -35,8 +40,6 @@ _Anything thats not a client library or SDK._
 - [Whisper Notebook](https://github.com/cnbeining/Whisper_Notebook) -A colab Notebook supporting OpenAI and translation via DeepL
 - [Excel Translator](https://github.com/SapporoAlex/Excel-to-Deepl-Translator) - Translate Excel files with the DeepL API
 - [Kudasai](https://github.com/Bikatr7/Kudasai) -  A Japanese-English preprocessor with automated translation capabilities
-- [Quick Translate](https://github.com/MathieuMoalic/quicktranslate) - Quick translate for Wayland via DeepL API
-- [SRT Translator](https://github.com/Fabrice-Deshayes-aka-Xtream/srt-translator) - Batch translate subtitle SRT files
 - [Multilingual Chat App](https://github.com/980k/cross-language-chat-app) - A multilingual chat web app build with C# and HTML
 - [DeepQt](https://github.com/VoxelCubes/DeepQt) - DeepL API Frontend via Qt
 - [tia-portal-translator](https://github.com/kurcontko/tia-portal-translator) - Translation tool for TIA Portal texts exported to Excel using the DeepL APIs.
