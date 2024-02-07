@@ -25,12 +25,16 @@ _Client Libraries, SDKs and developer tools designed to simplify and enhance you
 - [Transjson](https://github.com/gaelo-dev/transjson) - Script to automate JSON Translation via the API 
 - [ebt-deepl](https://github.com/sc-voice/ebt-deepl) - The ebt-deepl repository is a Javascript library for Early Buddhist Texts (EBT) translation using DeepL.
 - [JS+PHP](https://github.com/serhii-deineko/deepl) - JS + PHP Script to create translations of web sites
-
+- [DeeplKt](https://github.com/Micha-ohne-el/DeeplKt) - DeepL API Client for Kotlin
+- 
 ### Translation and localization tools
 _Projects that help get translations done easier using the DeepL API._
 
 - [Quick Translate](https://github.com/MathieuMoalic/quicktranslate) - Quick translate for Wayland via DeepL API
 - [SRT Translator](https://github.com/Fabrice-Deshayes-aka-Xtream/srt-translator) - Batch translate subtitle SRT files
+- [TrippleLangBuilder](https://github.com/infiniteAppsUG/tripleLangBuilder) - generate .arb-files in English, German and Spanish (Flutter)
+- [tia-portal-translator](https://github.com/kurcontko/tia-portal-translator) - Translate TIA Portal texts
+- [subtitle-extractor](https://github.com/sevengivings/subtitle-extractor) - Extract text from video or audio and translate it 
 
   
 ### Other
@@ -44,3 +48,4 @@ _Anything thats not a client library or SDK._
 - [DeepQt](https://github.com/VoxelCubes/DeepQt) - DeepL API Frontend via Qt
 - [tia-portal-translator](https://github.com/kurcontko/tia-portal-translator) - Translation tool for TIA Portal texts exported to Excel using the DeepL APIs.
 - [Discord-Deepl-Translator](https://github.com/peunsu/discord-deepl-translator) - DeepL App for Discord
+- [shellTranslator](https://github.com/GryphusOneSeven/shellTranslator) - A command line translator made in C#
