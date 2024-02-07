@@ -23,10 +23,10 @@ _Client Libraries, SDKs and developer tools designed to simplify and enhance you
 - [deepl-ex](https://github.com/hergetto/deepl_ex) - DeepL API Client for Elixir
 - [deepl-rs](https://github.com/Avimitin/deepl-rs) - DeepL API Client for Rust
 - [Transjson](https://github.com/gaelo-dev/transjson) - Script to automate JSON Translation via the API 
-- [ebt-deepl](https://github.com/sc-voice/ebt-deepl) - The ebt-deepl repository is a Javascript library for Early Buddhist Texts (EBT) translation using DeepL.
 - [JS+PHP](https://github.com/serhii-deineko/deepl) - JS + PHP Script to create translations of web sites
 - [DeeplKt](https://github.com/Micha-ohne-el/DeeplKt) - DeepL API Client for Kotlin
-- 
+
+ 
 ### Translation and localization tools
 _Projects that help get translations done easier using the DeepL API._
 
@@ -35,7 +35,7 @@ _Projects that help get translations done easier using the DeepL API._
 - [TrippleLangBuilder](https://github.com/infiniteAppsUG/tripleLangBuilder) - generate .arb-files in English, German and Spanish (Flutter)
 - [tia-portal-translator](https://github.com/kurcontko/tia-portal-translator) - Translate TIA Portal texts
 - [subtitle-extractor](https://github.com/sevengivings/subtitle-extractor) - Extract text from video or audio and translate it 
-
+- [ebt-deepl](https://github.com/sc-voice/ebt-deepl) - Javascript library for Early Buddhist Texts (EBT) translation using DeepL.
   
 ### Other
 _Anything thats not a client library or SDK._
