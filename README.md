@@ -17,6 +17,7 @@ The DeepL community has contributed to a remarkable array of open-source project
 ### Client Libraries & SDKs
 _Client Libraries, SDKs and developer tools designed to simplify and enhance your experience with our API._
 
+- [deepl-dart](https://github.com/komape/deepl_dart) - DeepL API Client for Dart
 - [deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - PHP Library for the DeepL APi.
 - [go-deepl](https://github.com/candy12t/go-deepl) - Unofficial DeepL API client for Go.
 - [emacs-openAI](https://github.com/serhii-deineko/deepl) - Elisp library for the DeepL API
