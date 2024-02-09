@@ -22,7 +22,7 @@ _Client Libraries, SDKs and developer tools designed to simplify and enhance you
 - [deepl-ex](https://github.com/hergetto/deepl_ex) - DeepL API Client for Elixir
 - [deepl-rs](https://github.com/Avimitin/deepl-rs) - DeepL API Client for Rust
 - [DeeplKt](https://github.com/Micha-ohne-el/DeeplKt) - DeepL API Client for Kotlin
-- [emacs-openAI](https://github.com/serhii-deineko/deepl) - Elisp library for the DeepL API
+- [emacs-openAI](https://github.com/emacs-openai/deepl) - Elisp library for the DeepL API
 - [go-deepl](https://github.com/candy12t/go-deepl) - Unofficial DeepL API client for Go
 - [JS+PHP](https://github.com/serhii-deineko/deepl) - JS + PHP Script to create translations of websites
 - [Transjson](https://github.com/gaelo-dev/transjson) - Script to automate JSON Translation via the API 
