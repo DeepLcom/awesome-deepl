@@ -7,6 +7,9 @@ Dive into our developer community, designed to inspire, empower and connect crea
 This is the place to be. 
 <a href="https://discord.gg/DeepL">Join now!</a>
 
+## Get access to the DeepL API
+
+To use the DeepL API, you'll need an account and an API key. [You can create an account here](https://www.deepl.com/pro?utm_source=github&utm_medium=github-awesome-deepl#developer). With a DeepL API Free account, you can translate up to 500,000 characters per month for free.
 
 ## Awesome DeepL 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python) and by [awesome-go](https://github.com/avelino/awesome-go).
@@ -17,6 +20,15 @@ The DeepL community has contributed to a remarkable array of open-source project
 ### Client Libraries & SDKs
 _Client Libraries, SDKs and developer tools designed to simplify and enhance your experience with our API._
 
+#### DeepL-supported Libraries and SDKs
+- [deepl-python](https://github.com/DeepLcom/deepl-python) - Official DeepL API client for Python
+- [deepl-php](https://github.com/DeepLcom/deepl-php) - Official DeepL API client for PHP
+- [deepl-dotnet](https://github.com/DeepLcom/deepl-dotnet) - Official DeepL API client for .NET
+- [deepl-node](https://github.com/DeepLcom/deepl-node) - Official DeepL API client for Node.js
+- [deepl-java](https://github.com/DeepLcom/deepl-java) - Official DeepL API client for Java
+- [deepl-rb](https://github.com/DeepLcom/deepl-rb) - Official DeepL API client for Ruby (coming soon!) 
+
+#### Community Libraries & SDKs
 - [deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Unofficial DeepL API client for PHP
 - [deepl-dart](https://github.com/komape/deepl_dart) - Unofficial DeepL API client for Dart
 - [deepl-ex](https://github.com/hergetto/deepl_ex) - Unofficial DeepL API client for Elixir
@@ -45,7 +57,7 @@ _Anything thats not a client library or SDK._
 - [Discord-Deepl-Translator](https://github.com/peunsu/discord-deepl-translator) - DeepL App for Discord
 - [Excel Translator](https://github.com/SapporoAlex/Excel-to-Deepl-Translator) - Translate Excel files with the DeepL API
 - [Kudasai](https://github.com/Bikatr7/Kudasai) - A Japanese-English preprocessor with automated translation capabilities
-- [Multilingual Chat App](https://github.com/980k/cross-language-chat-app) - A multilingual chat web app build with C# and HTML
+- [Multilingual Chat App](https://github.com/980k/cross-language-chat-app) - A multilingual chat web app built with C# and HTML
 - [shellTranslator](https://github.com/GryphusOneSeven/shellTranslator) - A command line translator made in C#
 - [SpeechToTranslated](https://github.com/PunkUnicorn/SpeechToTranslated) - Speech to text, then translates into multiple languages using MS Azure
 - [tia-portal-translator](https://github.com/kurcontko/tia-portal-translator) - Translation tool for TIA Portal texts exported to Excel using the DeepL APIs
