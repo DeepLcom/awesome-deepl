@@ -18,15 +18,10 @@ The DeepL community has contributed to a remarkable array of open-source project
 > _If you want your own project added or see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
 ### Client Libraries & SDKs
-_Client Libraries, SDKs and developer tools designed to simplify and enhance your experience with our API._
+_Client Libraries, SDKs, and developer tools designed to simplify and enhance your experience with our API._
 
 #### DeepL-supported Libraries and SDKs
-- [deepl-python](https://github.com/DeepLcom/deepl-python) - Official DeepL API client for Python
-- [deepl-php](https://github.com/DeepLcom/deepl-php) - Official DeepL API client for PHP
-- [deepl-dotnet](https://github.com/DeepLcom/deepl-dotnet) - Official DeepL API client for .NET
-- [deepl-node](https://github.com/DeepLcom/deepl-node) - Official DeepL API client for Node.js
-- [deepl-java](https://github.com/DeepLcom/deepl-java) - Official DeepL API client for Java
-- [deepl-rb](https://github.com/DeepLcom/deepl-rb) - Official DeepL API client for Ruby (coming soon!) 
+DeepL provides open-source client libraries in Python, PHP, Node.js, .NET, Java, and Ruby (coming soon). You can learn more [here](https://developers.deepl.com/docs/api-reference/client-libraries?utm_source=github&utm_medium=github-awesome-deepl).
 
 #### Community Libraries & SDKs
 - [deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Unofficial DeepL API client for PHP
