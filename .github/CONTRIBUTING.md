@@ -14,24 +14,18 @@ project maintainer.
 
 ## Issues
 
-If you experience problems using the library, or would like to request a new
-feature, please open an [issue][issues].
+If you think a project should be listed here but you are not the owner or maintainer, please open an [issue][issues].
 
 Please provide as much context as possible when you open an issue. The
-information you provide must be comprehensive enough for us to reproduce the
-issue.
+information you provide must be comprehensive enough for us to understand why that project
+should be added, how it helps the community or which problems it solves. 
 
 ## Pull Requests
 
-You are welcome to contribute code and/or documentation in order to fix a bug or
-to implement a new feature. Before beginning work, you should create an issue
-describing the changes you plan to contribute, to avoid wasting or duplicating
-effort. We will then let you know whether we would accept the changes.
+You are welcome to contribute to this list. If you own a project you want to have listed here, 
+open a PR to let us know by filling out the template. If you are not the owner, please refrain from
+adding a PR but add an [issue][issue] instead. 
 
-Contributions must be licensed under the same license as the project:
-[MIT License](LICENSE).
+We will then let you know whether we accept your project or not. 
 
-Currently automated testing is implemented internally at DeepL, however we plan
-to implement publicly visible testing soon.
-
-[issues]: https://www.github.com/DeepLcom/deepl-dotnet/issues
+[issues]: https://www.github.com/DeepLcom/awesome-deepl/issues
