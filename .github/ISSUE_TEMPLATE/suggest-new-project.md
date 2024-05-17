@@ -1,7 +1,7 @@
 ---
 name: Suggest new project
 about: Suggest a new project to be added
-title: ''
+title: '[Add]: '
 labels: ''
 assignees: ''
 

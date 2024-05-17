@@ -1,7 +1,7 @@
 ---
 name: Project removal
 about: 'You think a project should be removed. '
-title: ''
+title: '[Remove]: '
 labels: ''
 assignees: ''
 
