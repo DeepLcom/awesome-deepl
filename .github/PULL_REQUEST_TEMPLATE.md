@@ -6,9 +6,7 @@
 
 * [ ] Make sure to follow our [Code of Conduct](https://github.com/deeplcom/blob/master/.github/CODE_OF_CONDUCT.md) 
 
-* [ ] We do not accept submissions with the sole intention of promoting a product or company.
-
-* [ ] This is not a commercial project. 
+* [ ] We do not accept submissions with the sole intention of promoting a product, company or otherwise commercial product.
 
 * [ ] The moderator team decides whether we accept or reject a submission.
 
