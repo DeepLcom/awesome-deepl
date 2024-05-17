@@ -1,8 +1,10 @@
 # #Awesome DeepL Submission Guidelines
 
-* [ ] I am owner or maintainer of the project i'm submitting
+> _Please only submit 1 project per pull request_
 
-* [ ] Make sure to follow our [Code of Conduct](https://github.com/wearedotnet/dotnet-creator-cards/blob/master/CODE_OF_CONDUCT.md) 
+* [ ] I am owner or maintainer of the project I'm submitting
+
+* [ ] Make sure to follow our [Code of Conduct](https://github.com/deeplcom/blob/master/.github/CODE_OF_CONDUCT.md) 
 
 * [ ] We do not accept submissions with the sole intention of promoting a product or company.
 
@@ -19,5 +21,6 @@
 ## Project Infos 
 
 * Project Name
+* Short description of project and use-case
 * Github Url
 * Additional URLs
