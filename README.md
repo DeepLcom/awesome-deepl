@@ -15,6 +15,10 @@ To use the DeepL API, you'll need an account and an API key. [You can create an 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python) and by [awesome-go](https://github.com/avelino/awesome-go).
 
 The DeepL community has contributed to a remarkable array of open-source projects. In recognition of these contributions, we have curated an "Awesome DeepL" list on GitHub, providing a dedicated space to showcase these outstanding projects.
+
+> _All projects listed, except those marked as "Official," are created by community members who are not affiliated with DeepL. DeepL is not responsible for any harm caused by these projects. Please use them at your own risk._
+
+
 > _If you want your own project added or see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
 ### Client Libraries & SDKs
