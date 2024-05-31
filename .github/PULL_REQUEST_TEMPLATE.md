@@ -18,7 +18,7 @@
 
 ## Project Infos 
 
-* Project Name
+* Project name
 * Short description of project and use-case
-* Github Url
+* Github URL
 * Additional URLs
