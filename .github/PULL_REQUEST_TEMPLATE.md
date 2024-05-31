@@ -12,7 +12,7 @@
 
 * [ ] The project has a README that describes the use case and how to use it.
 
-* The project README is available in English.
+* [ ] The project README is available in English.
 
 
 
