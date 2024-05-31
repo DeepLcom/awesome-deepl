@@ -2,6 +2,8 @@
 
 > _Please submit only 1 project per pull request._
 
+* [ ] Check all points before submitting the PR.
+
 * [ ] I am owner or maintainer of the project I'm submitting.
 
 * [ ] Make sure to follow our [Code of Conduct](https://github.com/deeplcom/blob/master/.github/CODE_OF_CONDUCT.md). 
