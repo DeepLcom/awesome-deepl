@@ -30,6 +30,7 @@ DeepL provides open-source client libraries in Python, PHP, Node.js, .NET, Java,
 #### Community Libraries & SDKs
 - [deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Unofficial DeepL API client for PHP
 - [deepl-dart](https://github.com/komape/deepl_dart) - Unofficial DeepL API client for Dart
+- [DeepL4Delphi](https://github.com/DeveloppeurPascal/DeepL4Delphi) - Unofficial DeepL API client for Delphi
 - [deepl-ex](https://github.com/hergetto/deepl_ex) - Unofficial DeepL API client for Elixir
 - [deepl-rs](https://github.com/Avimitin/deepl-rs) - Unofficial DeepL API client for Rust
 - [DeeplKt](https://github.com/Micha-ohne-el/DeeplKt) - Unofficial DeepL API client for Kotlin
