@@ -36,6 +36,7 @@ DeepL provides open-source client libraries in Python, PHP, Node.js, .NET, Java,
 - [DeeplKt](https://github.com/Micha-ohne-el/DeeplKt) - Unofficial DeepL API client for Kotlin
 - [emacs-openAI](https://github.com/emacs-openai/deepl) - Unofficial DeepL API client for Elisp
 - [go-deepl](https://github.com/candy12t/go-deepl) - Unofficial DeepL API client for Go
+- [deepl.cr](https://github.com/kojix2/deepl.cr) - Unofficial DeepL API client for Crystal
 - [JS+PHP](https://github.com/serhii-deineko/deepl) - JS + PHP Script to create translations of websites
 - [Transjson](https://github.com/gaelo-dev/transjson) - Script to automate JSON Translation via the API 
 
