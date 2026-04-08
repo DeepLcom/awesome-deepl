@@ -55,6 +55,7 @@ _Projects that help get translations done easier using the DeepL API._
 _Anything thats not a client library or SDK._
 
 - [DeepQt](https://github.com/VoxelCubes/DeepQt) - DeepL API Frontend via Qt
+- [Inscriptions](https://github.com/elly-code/inscriptions) - DeepL API GTK4 Frontend written in Vala
 - [Discord-Deepl-Translator](https://github.com/peunsu/discord-deepl-translator) - DeepL App for Discord
 - [Excel Translator](https://github.com/SapporoAlex/Excel-to-Deepl-Translator) - Translate Excel files with the DeepL API
 - [Kudasai](https://github.com/Bikatr7/Kudasai) - A Japanese-English preprocessor with automated translation capabilities
